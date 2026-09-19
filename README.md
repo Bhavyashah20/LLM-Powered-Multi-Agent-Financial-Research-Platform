@@ -2,6 +2,12 @@
 
 A production-style multi-agent investment analysis framework for Indian equities. This project combines market data ingestion, technical analysis, evidence-backed thesis generation, verification, and structured reporting in a reproducible pipeline.
 
+## 🎬 Demo
+
+[![Five agents research INFY.NS; the Verification Agent flags an unsupported number](docs/demo/demo.gif)](docs/demo/demo.mp4)
+
+▶️ [Watch the full video with sound](docs/demo/demo.mp4) (22 s). Prices are real, from a 21 Oct 2025 run on INFY.NS; the flagged ₹1,650 target is an illustrative example of what the Verification Agent catches.
+
 ---
 
 ## 🚀 What This Project Does

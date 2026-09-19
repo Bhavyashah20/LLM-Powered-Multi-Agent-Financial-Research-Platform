@@ -30,3 +30,6 @@ desktop.ini
 # --- Secrets ---
 *.env
 secrets/
+
+# --- Demo video workspace (source, snapshots, raw audio; finished demo lives in docs/demo/) ---
+brag-output/
